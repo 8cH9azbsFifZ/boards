@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_svg: ^0.19.0
+  flutter_svg: ^0.20.0-nullsafety.3
 
   flutter_cache_manager: ^2.0.0
   firebase_storage: ^3.0.1
